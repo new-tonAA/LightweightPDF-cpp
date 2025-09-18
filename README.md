@@ -34,6 +34,7 @@ g++ merge_simple_pdfs.cpp -o merge_pdfs
 ## Notes
 
 * These are **basic demonstrations** of PDF structure and manipulation
+* You may **NOT** create two pages when creating a new PDF file (if I have some free time, I will try to fix the problem)
 * Not suitable for production or advanced PDF editing
 * Goal: **show how PDFs can be created/combined in the most lightweight way possible**
 
